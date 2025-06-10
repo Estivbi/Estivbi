@@ -16,14 +16,14 @@ MeAsesoran y en mi rol como desarrolladora, colaboro en la implementación de un
 
 ## 🎯 Objetivos para este año
 
-  ✅ Mejorar mis habilidades en desarrollo web.
-  ✅ Aprender un nuevo lenguaje de programación o tecnología.
-  🤝 Contribuir a un proyecto de código abierto.
-  ✅ Lanzar mi propio proyecto o aplicación.
-  🌐 Ampliar mi red de contactos.
-  💡 Innovar y experimentar con nuevas ideas en mis proyectos.
-  🎖 Obtener una certificación en una habilidad de programación específica.
-  ✅ Mantener un buen equilibrio entre el trabajo y la vida personal.
+- ✅ Mejorar mis habilidades en desarrollo web.
+- ✅ Aprender un nuevo lenguaje de programación o tecnología.
+-  🤝 Contribuir a un proyecto de código abierto.
+- ✅ Lanzar mi propio proyecto o aplicación.
+-  🌐 Ampliar mi red de contactos.
+-  💡 Innovar y experimentar con nuevas ideas en mis proyectos.
+- 🎖 Obtener una certificación en una habilidad de programación específica.
+- ✅ Mantener un buen equilibrio entre el trabajo y la vida personal.
 
 ## 📫 Cómo contactarme
 
