@@ -12,18 +12,18 @@ Soy una apasionada desarrolladora de software de Madrid, España. Me encanta pro
 
 
 ## 💼 Trabajo en ...
-MeAsesoran y en mi rol como desarrolladora, colaboro en la implementación de una innovadora aplicación destinada a simplificar el proceso de declaración de la renta. Me encargo de traducir las complejas fórmulas fiscales establecidas por la API de Hacienda a una interfaz de usuario intuitiva. Para hacerlo posible uso el lenguaje de Typescript junto con el framework de React Native.
+MeAsesoran y en mi rol como desarrolladora, colaboro en la implementación de una innovadora aplicación destinada a simplificar el proceso de declaración de la renta. Me encargo de traducir las complejas fórmulas fiscales establecidas por la API de Hacienda a una interfaz de usuario intuitiva. Utilizando Typescript junto con el framework de React Native. Actualmente en paralelo estoy desarrollando el panel para los asesores dentro de la app.
 
 ## 🎯 Objetivos para este año
 
-- 🚀 Mejorar mis habilidades en desarrollo web.
-- 📚 Aprender un nuevo lenguaje de programación o tecnología.
-- 🤝 Contribuir a un proyecto de código abierto.
-- 📈 Lanzar mi propio proyecto o aplicación.
-- 🌐 Ampliar mi red de contactos.
-- 💡 Innovar y experimentar con nuevas ideas en mis proyectos.
-- 🎖 Obtener una certificación en una habilidad de programación específica.
-- 🧘‍♂️ Mantener un buen equilibrio entre el trabajo y la vida personal.
+  ✅ Mejorar mis habilidades en desarrollo web.
+  ✅ Aprender un nuevo lenguaje de programación o tecnología.
+  🤝 Contribuir a un proyecto de código abierto.
+  ✅ Lanzar mi propio proyecto o aplicación.
+  🌐 Ampliar mi red de contactos.
+  💡 Innovar y experimentar con nuevas ideas en mis proyectos.
+  🎖 Obtener una certificación en una habilidad de programación específica.
+  ✅ Mantener un buen equilibrio entre el trabajo y la vida personal.
 
 ## 📫 Cómo contactarme
 
